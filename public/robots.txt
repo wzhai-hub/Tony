@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://github.com/wzhai-hub/Tony.git/sitemap.xml

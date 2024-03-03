@@ -1,0 +1,88 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Frontend
+    # url: '#about'
+    weight: 10
+  - name: Backend
+    url: '#posts'
+    weight: 20
+  - name: Cloud Native
+    url: '#talks'
+    weight: 30
+  - name: System Design
+    url: '#projects'
+    weight: 40
+  - name: Protocol
+    url: '#featured'
+    weight: 50
+  # - name: others
+    # url: '#featured'
+    # weight: 60
+  
+  #  Frontend
+  - name: HTML
+    PageRef: post/_index.md
+    # url: '#posts'
+    weight: 10
+    parent: Frontend
+  - name: CSS
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    weight: 20
+    parent: Frontend
+  - name: Next.js
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    weight: 30
+    parent: Frontend
+  - name: React
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    weight: 40
+    parent: Frontend
+
+  #  Backend
+  - name: Postgres
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    # weight: 10
+    parent: Backend
+  - name: Security
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    # weight: 10
+    parent: Backend
+  - name: Micro-Service
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    # weight: 10
+    parent: Backend
+  - name: xxx
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    # weight: 10
+    parent: Backend
+
+  #  Clode Native
+  - name: Istio
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    weight: 20
+    parent: Cloud Native
+  - name: K8S
+    PageRef: Frontend/HTML/abcxx.md
+    # url: '#posts'
+    weight: 10
+    parent: Cloud Native
+
+
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#  - name: CV
+#    url: uploads/resume.pdf
+#    weight: 70
