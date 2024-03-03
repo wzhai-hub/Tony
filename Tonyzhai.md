@@ -16,3 +16,5 @@ git push -u origin main
 …or import code from another repository
 
 HUGO version: 
+
+git push https://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@github.com/wzhai-hub/Tony
