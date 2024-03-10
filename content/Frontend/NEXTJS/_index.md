@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: NextJS
 cms_exclude: true
 
 # View.

@@ -5,7 +5,7 @@
 
 main:
   - name: Frontend
-    # url: '#about'
+    url: '#frontend'
     weight: 10
   - name: Backend
     url: '#posts'
@@ -13,73 +13,99 @@ main:
   - name: Cloud Native
     url: '#talks'
     weight: 30
+  - name: Language
+    url: '#language'
+    weight: 40
   - name: System Design
     url: '#projects'
-    weight: 40
-  - name: Protocol
-    url: '#featured'
     weight: 50
+  - name: Protocol
+    url: '#Protocol'
+    weight: 60
+
   # - name: others
-    # url: '#featured'
-    # weight: 60
+  #   url: '#featured'
+  #   weight: 60
   
   #  Frontend
   - name: HTML
-    PageRef: post/_index.md
-    # url: '#posts'
+    PageRef: Frontend/HTML/_index.md
+    # url: '#frontend'
     weight: 10
     parent: Frontend
   - name: CSS
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Frontend/CSS/_index.md
     # url: '#posts'
     weight: 20
     parent: Frontend
   - name: Next.js
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Frontend/NEXTJS/_index.md
     # url: '#posts'
     weight: 30
     parent: Frontend
   - name: React
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Frontend/React/_index.md
     # url: '#posts'
     weight: 40
     parent: Frontend
 
   #  Backend
   - name: Postgres
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Backend/Postgres/_index.md
     # url: '#posts'
     # weight: 10
     parent: Backend
   - name: Security
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Backend/Security/_index.md
     # url: '#posts'
     # weight: 10
     parent: Backend
-  - name: Micro-Service
-    PageRef: Frontend/HTML/abcxx.md
-    # url: '#posts'
-    # weight: 10
-    parent: Backend
-  - name: xxx
-    PageRef: Frontend/HTML/abcxx.md
-    # url: '#posts'
-    # weight: 10
-    parent: Backend
+  # - name: Micro-Service
+  #   PageRef: Frontend/HTML/abcxx.md
+  #   # url: '#posts'
+  #   # weight: 10
+  #   parent: Backend
+  # - name: xxx
+  #   PageRef: Frontend/HTML/abcxx.md
+  #   # url: '#posts'
+  #   # weight: 10
+  #   parent: Backend
 
   #  Clode Native
-  - name: Istio
-    PageRef: Frontend/HTML/abcxx.md
-    # url: '#posts'
-    weight: 20
-    parent: Cloud Native
   - name: K8S
-    PageRef: Frontend/HTML/abcxx.md
+    PageRef: Cloud Native/Istio/_index.md
     # url: '#posts'
     weight: 10
     parent: Cloud Native
+  - name: Istio
+    PageRef: Cloud Native/K8S/_index.md
+    # url: '#posts'
+    weight: 20
+    parent: Cloud Native
 
+# Language
+  - name: NodeJS
+    PageRef: Language/NodeJS/_index.md
+    # url: '#posts'
+    weight: 10
+    parent: Language
+  - name: C++
+    PageRef: Language/C++/_index.md
+    # url: '#posts'
+    weight: 20
+    parent: Language
+  # - name: Golang
+  #   PageRef: Language/Golang/_index.md
+  #   # url: '#posts'
+  #   weight: 30
+  #   parent: Language
 
+# Protocol
+  - name: Protocol
+    PageRef: Protocol/_index.md
+    url: '#Protocol'
+    # weight: 10
+    # parent: Language
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

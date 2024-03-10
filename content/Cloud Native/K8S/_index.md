@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: K8S
 cms_exclude: true
 
 # View.
