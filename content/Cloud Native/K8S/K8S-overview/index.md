@@ -5,7 +5,9 @@ title: "K8S Overview"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+# tags: []
+tags:
+  - k8S
 categories: []
 date: 2024-03-08T11:27:22+08:00
 lastmod: 2024-03-08T11:27:22+08:00
@@ -60,8 +62,8 @@ Kubernetes，也称为K8s，是一款开源的容器编排系统，用于自动�
 
 此外，Kubernetes集群中的节点（Node）是工作负载节点，每个Node会被Master分配一些工作负载，当某一个Node宕机时，其上的工作负载会被Master自动转移到其他节点上。关键进程如kubelet负责Pod对应的容器的创建、启动、停止等任务，并与Master节点密切协作，实现集群管理的基本功能；而kube-proxy则是实现Kubernetes Service的通信与负载均衡机制的重要组件。
 
-<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1XJ411X7Ud/?from=search&seid=4871020555062147773" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV1cF411X7nV/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c" frameborder="0" allowfullscreen></iframe>
 
 <!-- 视频衔接 -->
-[详细讲解视频](https://www.bilibili.com/video/BV1XJ411X7Ud/?from=search&seid=4871020555062147773)
+[详细讲解视频](https://www.bilibili.com/video/BV1cF411X7nV/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c)
 

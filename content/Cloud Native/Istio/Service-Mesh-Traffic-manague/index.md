@@ -5,7 +5,8 @@ title: "service mesh 流量管理"
 subtitle: ""
 summary: ""
 authors: []
-tags: []
+tags:
+  - Istio
 categories: []
 date: 2024-03-08T11:27:22+08:00
 lastmod: 2024-03-08T11:27:22+08:00

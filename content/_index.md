@@ -138,7 +138,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - Cloud Native
         author: ""
         category: ""
         tag: ""

@@ -73,12 +73,12 @@ main:
 
   #  Clode Native
   - name: K8S
-    PageRef: Cloud Native/Istio/_index.md
+    PageRef: Cloud Native/K8S/_index.md
     # url: '#posts'
     weight: 10
     parent: Cloud Native
   - name: Istio
-    PageRef: Cloud Native/K8S/_index.md
+    PageRef: Cloud Native/Istio/_index.md
     # url: '#posts'
     weight: 20
     parent: Cloud Native
