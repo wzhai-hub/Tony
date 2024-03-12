@@ -134,14 +134,15 @@ sections:
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 10
       # Filter on criteria
       filters:
         folders:
           - Cloud Native
+          # - Language
         author: ""
         category: ""
-        tag: ""
+        tags: ""
         exclude_featured: false
         exclude_future: false
         exclude_past: false

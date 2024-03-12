@@ -1,5 +1,7 @@
 ---
 title: eslint plugin for TypeScript
+tags:
+  - nodejs
 date: '2023-11-04'
 summary: ESLint is a valuable tool for improving code quality, maintaining consistency, preventing errors
 ---

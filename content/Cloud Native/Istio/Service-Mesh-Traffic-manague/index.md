@@ -1,9 +1,9 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "service mesh 流量管理"
+title: "Service Mesh Istio概述及流量管理分析总结"
 subtitle: ""
-summary: ""
+summary: "Service Mesh Istio概述及流量管理分析总结"
 authors: []
 tags:
   - Istio
@@ -28,6 +28,12 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Service Mesh Istio概述及流量管理分析总结
+
+<!-- https://www.bilibili.com/video/BV1aP41147DV/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c -->
+
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1aP41147DV" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+
 
 Istio的流量控制是其核心功能之一，它允许用户细粒度地控制服务网格间的流量。以下是Istio流量控制的详解：
 

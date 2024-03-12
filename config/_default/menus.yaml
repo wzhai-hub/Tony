@@ -72,8 +72,8 @@ main:
   #   parent: Backend
 
   #  Clode Native
-  - name: K8S
-    PageRef: Cloud Native/K8S/_index.md
+  - name: kubernetes
+    PageRef: Cloud Native/kubernetes/_index.md
     # url: '#posts'
     weight: 10
     parent: Cloud Native
@@ -84,8 +84,8 @@ main:
     parent: Cloud Native
 
 # Language
-  - name: NodeJS
-    PageRef: Language/NodeJS/_index.md
+  - name: nodejs
+    PageRef: Language/nodejs/_index.md
     # url: '#posts'
     weight: 10
     parent: Language
