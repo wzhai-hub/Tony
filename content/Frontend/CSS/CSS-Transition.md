@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS-Transition"
+subtitle: ""
+summary: "CSS 过度"
+
+authors: []
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 在CSS中，过渡（Transition）是一种通过在状态变化时平滑地改变属性值的效果。过渡可以让元素的样式在变化时产生平滑的动画效果，而不是突变。过渡通常用于鼠标悬停、点击或其他状态变化的交互效果。
 
 要使用过渡，你需要定义以下几个关键属性：

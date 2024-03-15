@@ -1,3 +1,34 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "Tunneling Protocol"
+subtitle: ""
+summary: "隧道协议,它允许在一个网络协议的封装下传输另一个网络协议的数据。隧道协议的主要目的是在不同网络之间创建一条逻辑上的连接，使得数据可以在这条连接上进行安全、可靠的传输"
+authors: []
+# tags:
+#   - Istio
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-15T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 "隧道协议" 是一种网络通信的技术，它允许在一个网络协议的封装下传输另一个网络协议的数据。隧道协议的主要目的是在不同网络之间创建一条逻辑上的连接，使得数据可以在这条连接上进行安全、可靠的传输。
 
 常见的隧道协议有以下几种：

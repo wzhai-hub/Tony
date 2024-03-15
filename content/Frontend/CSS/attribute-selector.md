@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS-attribute-selector"
+subtitle: ""
+summary: "CSS属性选择器"
+
+authors: [Tony zhai]
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 在CSS中，属性选择器允许你根据元素的属性值选择元素。属性选择器以方括号括起来，并使用属性名称和可选的值来指定选择条件。以下是一些常见的属性选择器：
 
 1. **存在性属性选择器（[attribute]）：**

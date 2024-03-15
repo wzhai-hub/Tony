@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS text direction"
+subtitle: ""
+summary: "CSS文本属性"
+
+authors: []
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 在CSS中，处理不同文本方向的属性主要涉及到 `direction` 和 `unicode-bidi` 属性。这两个属性通常用于处理文本的方向和嵌套文本块的双向性。
 
 ### 1. `direction` 属性：

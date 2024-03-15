@@ -1,3 +1,34 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "OAuth"
+subtitle: ""
+summary: "OAuth 2.0认证是一个开放标准，它允许用户授权第三方应用访问他们存储在另外的服务提供者上的信息，而不需要将用户名和密码提供给第三方应用或分享他们数据的所有内容"
+authors: []
+# tags:
+#   - Istio
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-15T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 OAuth 2.0 和 OIDC 工作流程
 
 OAuth 2.0 工作流程

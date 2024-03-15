@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS-transform"
+subtitle: ""
+summary: "CSS变换"
+
+authors: []
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 `transform` 函数是CSS中用于进行元素变换的强大工具。它可以在平面或三维空间内进行变换，包括旋转、缩放、平移和倾斜。以下是一些常见的 `transform` 函数用法：
 
 1. **平移（Translate）：**

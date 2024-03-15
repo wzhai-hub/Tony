@@ -1,3 +1,34 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "Internet Protocol Security"
+subtitle: ""
+summary: "互联网协议安全,是一组协议和标准，用于在互联网通信中提供网络层的安全性。其主要目标是保护 IP 数据包的机密性、完整性和身份认证"
+authors: []
+# tags:
+#   - Istio
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-15T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 IPsec，全称为Internet Protocol Security（互联网协议安全），是一组协议和标准，用于在互联网通信中提供网络层的安全性。其主要目标是保护 IP 数据包的机密性、完整性和身份认证。IPsec 可以在网络层对通信进行加密和认证，通常用于构建虚拟私有网络（VPN）和其他安全通信渠道。
 
 IPsec 的主要特性包括：

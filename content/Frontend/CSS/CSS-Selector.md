@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS-selector"
+subtitle: ""
+summary: "CSS选择器"
+
+authors: []
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 CSS（层叠样式表）选择器用于选择 HTML 或 XML 文档中的元素，并为其应用样式。以下是一些常见的 CSS 选择器：
 
 1. **元素选择器（Element Selector）：**

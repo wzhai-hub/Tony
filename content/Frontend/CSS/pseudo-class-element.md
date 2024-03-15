@@ -1,3 +1,36 @@
+---
+# Documentation: https://hugoblox.com/docs/managing-content/
+
+title: "CSS->pseudo-class/pseudo-element"
+subtitle: ""
+summary: "CSS 伪类与伪元素"
+
+authors: []
+# tags: []
+# tags:
+#   - CSS
+categories: []
+date: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-08T11:27:22+08:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
+
 CSS 中的伪类（pseudo-class）和伪元素（pseudo-element）是用于选择文档中特定状态或特定部分的选择器。它们以冒号（`:`）或双冒号（`::`）开头。虽然在一些情况下单冒号和双冒号可以互换使用，但在新的规范中，建议对于伪元素使用双冒号以区分伪类和伪元素。
 
 ### 伪类（Pseudo-class）：
