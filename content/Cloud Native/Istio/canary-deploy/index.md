@@ -1,15 +1,15 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "service mesh Istio金丝雀发布"
+title: "Istio Canary Deployments in kubernetes"
 subtitle: ""
-summary: "service mesh Istio金丝雀发布"
+summary: "Istio 金丝雀部署"
 authors: []
 tags:
   - Istio
 categories: []
 date: 2024-03-08T11:27:22+08:00
-lastmod: 2024-03-08T11:27:22+08:00
+lastmod: 2024-03-15T11:27:22+08:00
 featured: false
 draft: false
 
@@ -29,10 +29,6 @@ image:
 projects: []
 ---
 
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1kN411z74k" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
-
-<!-- https://www.bilibili.com/video/BV1kN411z74k/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c -->
-
 金丝雀发布（Canary Release）也被称为灰度发布，是一种在软件部署中使用的策略，旨在降低在生产环境中引入新版本软件的风险。它通过在将更改推广到整个基础架构并使其可供所有人使用之前，先缓慢地将更改推广到一小部分用户，从而实现平滑的过渡。
 
 这种发布方式得名于矿工使用金丝雀来探测矿井中是否有有毒气体的历史实践。如果金丝雀能够存活下来，矿工就知道矿井是安全的，可以安全下井采矿。类似地，在金丝雀发布中，新版本首先被部署到一小部分用户或服务器，作为“金丝雀”来测试新版本的性能和表现。
@@ -42,4 +38,5 @@ projects: []
 金丝雀发布通常涉及对流量的精细控制，以及对日志和服务器监控的深入分析，以了解新版本的实时表现和用户反馈。这种发布方式在Kubernetes等容器中尤为常见，可以通过暂停滚动更新来实现灰度发布。
 
 金丝雀发布是一种有效的风险管理策略，可以帮助团队更安全、更可靠地部署新版本软件。
-<!-- 视频 -->
+#### 下面我来详细讲解Canary Deployments
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1kN411z74k" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>

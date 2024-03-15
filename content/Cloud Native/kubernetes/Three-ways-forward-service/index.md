@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "三种方法访问minikube集群"
+title: "Three ways request to servive"
 subtitle: ""
 summary: "三种方法访问minikube集群"
 
@@ -31,7 +31,11 @@ image:
 projects: []
 ---
 
-### 欢迎大家观看我的视频讲解《三种方法访问minikube集群，Port-forward,Tunnel,Ingress》
+## 欢迎大家观看我的视频讲解《三种方法访问minikube集群，Port-forward,Tunnel,Ingress》
+- Three ways forwards to servive
+  - Port-forward
+  - Tunnel
+  - Ingress
+
 <iframe src="https://player.bilibili.com/player.html?bvid=BV1Bh4y1j7Gu" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
-<!-- https://www.bilibili.com/video/BV1Bh4y1j7Gu/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c -->

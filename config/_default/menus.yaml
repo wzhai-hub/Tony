@@ -17,7 +17,7 @@ main:
     url: '#language'
     weight: 40
   - name: System Design
-    url: '#projects'
+    url: '#systemDesign'
     weight: 50
   - name: Protocol
     url: '#Protocol'
@@ -100,12 +100,19 @@ main:
   #   weight: 30
   #   parent: Language
 
+  - name: System Design
+    PageRef: System Design/_index.md
+    url: '#systemDesign'
+    # weight: 20
+    # parent: System Design
+
 # Protocol
   - name: Protocol
     PageRef: Protocol/_index.md
     url: '#Protocol'
     # weight: 10
     # parent: Language
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

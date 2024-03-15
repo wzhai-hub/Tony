@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "Service Mesh Istio概述及流量管理分析总结"
+title: "Service Mesh Istio Traffic Management"
 subtitle: ""
 summary: "Service Mesh Istio概述及流量管理分析总结"
 authors: []
@@ -30,7 +30,11 @@ projects: []
 ---
 Service Mesh Istio概述及流量管理分析总结
 
-<!-- https://www.bilibili.com/video/BV1aP41147DV/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c -->
+- Istio
+  - 流量管理
+  - 安全
+  - 可观测性
+  - 扩展性
 
 <iframe src="https://player.bilibili.com/player.html?bvid=BV1aP41147DV" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
@@ -46,4 +50,3 @@ Istio的流量控制流程是这样的：由Pilot维护管理策略，并通过�
 为了实现网格间的流量定向，Istio需要知道系统中的endpoint的位置，以及它们属于哪些服务。通过使用服务注册，Envoy可以把流量导向相应的服务。大部分基于微服务的应用中，每个服务的工作负载都有多个实例处理流量，Envoy可以根据配置的负载均衡策略将流量分发到这些实例上。
 
 总的来说，Istio的流量控制功能强大且灵活，可以根据业务需求进行精细化的流量管理和调度。通过Envoy代理和Pilot组件的协同工作，Istio能够在服务网格中实现高效的流量控制和转发。
-

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://hugoblox.com/docs/managing-content/
 
-title: "几分钟彻底理解K8S自动扩缩容"
+title: "Master K8S auto scaling"
 subtitle: ""
 summary: "几分钟彻底理解K8S自动扩缩容"
 authors: []
@@ -30,9 +30,12 @@ image:
 projects: []
 ---
 
-<!-- https://www.bilibili.com/video/BV1hF411y7uP/?spm_id_from=333.999.0.0&vd_source=d74f70dd1a3f3abb97c3a0481b65032c -->
-<iframe src="https://player.bilibili.com/player.html?bvid=BV1hF411y7uP" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
+- K8S自动扩缩容
+   - 水平扩缩容，垂直扩缩容
+   - HPA
+   - metrics
 
+<iframe src="https://player.bilibili.com/player.html?bvid=BV1hF411y7uP" width="100%" height="500" frameborder="0" allowfullscreen="true"></iframe>
 
 Kubernetes（K8s）的自动扩缩容功能是通过Horizontal Pod Autoscaling（HPA）实现的。HPA是K8s的一种资源类型，它可以根据集群中Pod的实时负载情况，自动调整Pod的副本数量，以实现资源的弹性伸缩。
 
@@ -44,4 +47,3 @@ Kubernetes（K8s）的自动扩缩容功能是通过Horizontal Pod Autoscaling�
 
 总的来说，K8s的自动扩缩容功能通过HPA实现了对Pod资源的弹性管理，有效提高了集群的资源利用率和应用的稳定性。
 
-<!-- 视频讲解 -->
