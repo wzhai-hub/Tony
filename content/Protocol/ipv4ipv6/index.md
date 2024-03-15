@@ -1,3 +1,11 @@
+---
+title: IPV4/IPV6
+# tags:
+#   - nodejs
+date: '2023-11-04'
+summary: IPV4/IPV6 地址长度不同，建立socket api函数不一样
+---
+
 在计算机网络中，IPv4（Internet Protocol version 4）和IPv6（Internet Protocol version 6）是用于标识和定位网络中设备的协议。它们在地址长度上有所不同：
 
 1. **IPv4：**

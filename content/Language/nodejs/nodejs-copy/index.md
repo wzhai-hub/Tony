@@ -1,3 +1,13 @@
+
+---
+title: Javascript deeep copy
+tags:
+  - nodejs
+date: '2023-11-04'
+summary: Understand Javascript deeep copy
+---
+
+
 # Javascript 深拷贝与浅拷贝
 
 ## JavaScript是一种高级的，动态类型化脚本语言。像大多数其他编程语言一样，JavaScript允许支持深层拷贝和浅层拷贝的概念

@@ -3,7 +3,7 @@
 
 title: "HTML Tags"
 subtitle: ""
-summary: "HTML常用标签"
+summary: "HTML（HyperText Markup Language）是用于创建网页的标记语言，常用标签有很多"
 authors: []
 # tags:
 #   - system desigin

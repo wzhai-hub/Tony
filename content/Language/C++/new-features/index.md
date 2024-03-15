@@ -1,3 +1,11 @@
+---
+title: C++11 新特性
+tags:
+  - nodejs
+date: '2023-11-04'
+summary: C++11 新特性:自动类型推导,Range-Based for Loop,Lambda 表达式,Smart Pointers...
+---
+
 C++11 新特性
 
 1. **自动类型推导 (auto)**: `auto` 关键字允许编译器根据变量的初始化值来自动推断其数据类型，使代码更具灵活性和可读性。
@@ -37,6 +45,6 @@ C++11 新特性
 
 这些是 C++11 中的一些重要特性，您可以选择其中一些特性进行详细介绍，以便在 PPT 汇报中展示 C++11 的新功能和改进。
 
-https://en.cppreference.com/w/cpp/11
+<!-- https://en.cppreference.com/w/cpp/11 -->
 
-https://en.wikipedia.org/wiki/C%2B%2B11
+<!-- https://en.wikipedia.org/wiki/C%2B%2B11 -->

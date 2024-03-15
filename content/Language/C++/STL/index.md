@@ -1,3 +1,11 @@
+---
+title: C++ 标准库（Standard Library）提供了许多库函数
+# tags:
+#   - nodejs
+date: '2023-11-04'
+summary: C++ 标准库（Standard Library）提供了许多库函数，涵盖了广泛的功能领域。这些库函数分为几个主要的头文件，并包括各种类、函数和算法
+---
+
 C++ 标准库（Standard Library）提供了许多库函数，涵盖了广泛的功能领域。这些库函数分为几个主要的头文件，并包括各种类、函数和算法。以下是一些常见的 C++ 库函数的主要类别和示例：
 
 1. **输入输出库 (`<iostream>`、`<iomanip>`、`<fstream>`等)：**

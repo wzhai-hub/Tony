@@ -1,7 +1,7 @@
 ---
-title: Nodejs NPM 常用软件开发包
+title: Nodejs NPM yarn software package
 date: '2023-11-08'
-summary: 业务NPM开发包，常用工具类NPM软件开发包
+summary: nodejs software package Lib for project
 ---
 
 Node.js有着强大的软件库生态系统，供开发人员在各种应用中使用。这里列出了一些广泛应用且备受欢迎的 Node.js 软件库：
@@ -43,65 +43,65 @@ npm (Node Package Manager): npm 是 Node.js 的包管理器，是全球最大的
 15. **ejs**: Embedded JavaScript templates.
 
 ## 其他一些常用NPM包，不再单独一一介绍
-**html-react-parser**
-**http-proxy-middleware**
-**request**
-**uuid**
-**lodash**
-**compression**
-**cookie-parser**
-**oracledb**
-**pg**
-**moment**
-**express-session**
-**kafkajs**
-**anyid**
-**cassandra-driver**
-**ajv**
-**ioredis**
-**helmet**
-**xml2js**
-**body-parser**
-**compression**
-**dayjs**
-**prom-client**
-**crypto-js**
-**passport**
-**passport-http**
-**passport-ldapauth**
-**passport-local**
-**react**
-**react-dom**
-**react-router-dom**
-**react-is**
-**mapbox-gl**
-**mapbox-gl-styles**
-**prismjs**
-**awesome-phonenumber**
-**prismjs**
+- **html-react-parser**
+- **http-proxy-middleware**
+- **request**
+- **uuid**
+- **lodash**
+- **compression**
+- **cookie-parser**
+- **oracledb**
+- **pg**
+- **moment**
+- **express-session**
+- **kafkajs**
+- **anyid**
+- **cassandra-driver**
+- **ajv**
+- **ioredis**
+- **helmet**
+- **xml2js**
+- **body-parser**
+- **compression**
+- **dayjs**
+- **prom-client**
+- **crypto-js**
+- **passport**
+- **passport-http**
+- **passport-ldapauth**
+- **passport-local**
+- **react**
+- **react-dom**
+- **react-router-dom**
+- **react-is**
+- **mapbox-gl**
+- **mapbox-gl-styles**
+- **prismjs**
+- **awesome-phonenumber**
+- **prismjs**
 
 ## 工具类NPM开发包
-**chai**
-**mocha**
-**mochawesome**
-**mrm**
-**nock**
-**node-fetch**
-**sinon**
-**sinon-chai**
-**supertest**
-**typescript**
-**typescript-formatter**
-**scripty**
-**prettier**
-**mz**
-**shelljs**
-**swagger-markdown**
-**clarify**
-**trace**
+- **chai**
+- **mocha**
+- **mochawesome**
+- **mrm**
+- **nock**
+- **node-fetch**
+- **sinon**
+- **sinon-chai**
+- **supertest**
+- **typescript**
+- **typescript-formatter**
+- **scripty**
+- **prettier**
+- **mz**
+- **shelljs**
+- **swagger-markdown**
+- **clarify**
+- **trace**
 
 ## 前端工具类常用NPM开发包
-**webpack**
-**webpack-cli**
-**webpack-dev-server**
-**webpack-merge**
+- **webpack**
+- **webpack-cli**
+- **webpack-dev-server**
+- **webpack-merge**

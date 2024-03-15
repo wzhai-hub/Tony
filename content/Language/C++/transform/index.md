@@ -1,3 +1,11 @@
+---
+title: C++ 标准库中的一个算法transform
+# tags:
+#   - nodejs
+date: '2023-11-04'
+summary: std::transform 是 C++ 标准库中的一个算法，位于头文件 <algorithm> 中。该算法用于对指定范围的元素执行某种操作，并将结果存储到另一个范围中。
+---
+
 `std::transform` 是 C++ 标准库中的一个算法，位于头文件 `<algorithm>` 中。该算法用于对指定范围的元素执行某种操作，并将结果存储到另一个范围中。
 
 `std::transform` 的基本语法如下：
