@@ -30,6 +30,7 @@ role: Full-Stack Engineer
 # Interests to show in About widget
 interests:
   - Nodejs
+  - Java
   - C++
   - Golang
 
