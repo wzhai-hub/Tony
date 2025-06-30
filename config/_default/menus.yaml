@@ -99,6 +99,11 @@ main:
   #   # url: '#posts'
   #   weight: 30
   #   parent: Language
+  - name: Java
+    PageRef: Language/Java/_index.md
+    # url: '#posts'
+    weight: 20
+    parent: Language
 
   - name: System Design
     PageRef: System Design/_index.md
