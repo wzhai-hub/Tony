@@ -14,6 +14,3 @@ git remote add origin https://github.com/wzhai-hub/Tony.git
 git branch -M main
 git push -u origin main
 …or import code from another repository
-
-HUGO version: 
-

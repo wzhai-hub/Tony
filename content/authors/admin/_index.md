@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Tony zhai
+title: Vincent zhai
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Tony
+first_name: Vincent
 last_name: Zhai
 
 # Status emoji
@@ -31,8 +31,8 @@ role: Full-Stack Engineer
 interests:
   - Nodejs
   - Java
-  - C++
-  - Golang
+  # - C++
+  - Python
 
 # Education to show in About widget
 education:
@@ -122,5 +122,5 @@ highlight_name: true
 ---
 
 <!-- Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
-Tony zhai is professional software developer with more than ten years of experience and possess a strong curiosity and enthusiasm for acquiring new knowledge.
+Vincent zhai is professional software developer with more than ten years of experience and possess a strong curiosity and enthusiasm for acquiring new knowledge.
 {style="text-align: justify;"}
