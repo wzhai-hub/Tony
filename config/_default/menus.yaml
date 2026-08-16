@@ -16,12 +16,15 @@ main:
   - name: Language
     url: '#language'
     weight: 40
+  - name: AI
+    url: '#AI'
+    weight: 50
   - name: System Design
     url: '#systemDesign'
-    weight: 50
+    weight: 60
   - name: Protocol
     url: '#Protocol'
-    weight: 60
+    weight: 70
 
   # - name: others
   #   url: '#featured'
@@ -124,12 +127,27 @@ main:
     # weight: 10
     # parent: Language
 
-# AI
-  - name: AI
-    PageRef: AI/_index.md
-    url: '#AI'
-    # weight: 20
-    # parent: System Design
+# AI 下拉菜单
+  - name: RAG
+    PageRef: AI/RAG/_index.md
+    # url: '#posts'
+    weight: 10
+    parent: AI
+  - name: LangChain
+    PageRef: AI/LangChain/_index.md
+    # url: '#posts'
+    weight: 20
+    parent: AI
+  - name: LangGraph
+    PageRef: AI/LangGraph/_index.md
+    # url: '#posts'
+    weight: 30
+    parent: AI
+  - name: Agent
+    PageRef: AI/Agent/_index.md
+    # url: '#posts'
+    weight: 40
+    parent: AI
 
 
 # Link to a PDF of your resume/CV from the menu.
