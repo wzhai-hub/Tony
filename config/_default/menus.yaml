@@ -173,14 +173,15 @@ main:
   - name: RAG
     PageRef: AI/RAG/_index.md
     # url: '#posts'
-    weight: 90
+    weight: 80
     parent: AI
 
   - name: Production-AI
     PageRef: AI/Production-AI/_index.md
     # url: '#posts'
-    weight: 100
+    weight: 80
     parent: AI
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
