@@ -1,5 +1,5 @@
 ---
-title:  Agent
+title:  AI-Agent
 cms_exclude: true
 
 # View.
