@@ -1,4 +1,3 @@
-
 ---
 title: LangChain
 # tags:
@@ -6,7 +5,6 @@ title: LangChain
 date: '2026-08-05'
 summary: LangChain是一个用于构建大语言模型（LLM）应用的开源开发框架
 ---
-
 
 **LangChain** 是一个用于构建 **大语言模型（LLM）应用** 的开源开发框架。它最初主要支持 Python，后来也推出了 JavaScript/TypeScript 版本，目的是让开发者能够更方便地将大模型与外部数据、工具和业务流程结合起来，而不仅仅是简单地调用模型 API。
 
