@@ -1,5 +1,5 @@
 ---
-title:  Multi-Agent
+title:  Multi Agent
 cms_exclude: true
 
 # View.

@@ -26,7 +26,7 @@
 ├── 4. Multi-Agent
 │   ├── Multi-Agent Architecture
 │   ├── CrewAI
-│   ├── LangGraph
+│   ├── LangGraph(no need)
 │   ├── Agent Collaboration
 │   └── Agent Communication
 │

@@ -1,5 +1,5 @@
 ---
-title: Agent-Infrastructure
+title: Agent Infrastructure
 cms_exclude: true
 
 # View.

@@ -1,5 +1,5 @@
 ---
-title: AgentSecurity
+title: Agent Security
 cms_exclude: true
 
 # View.

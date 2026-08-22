@@ -1,5 +1,5 @@
 ---
-title: LLM-Fundamentals
+title: LLM Fundamentals
 cms_exclude: true
 
 # View.

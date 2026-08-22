@@ -143,8 +143,8 @@ main:
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: AgentSecurity
-    PageRef: AI/AgentSecurity/_index.md
+  - name: Agent-Security
+    PageRef: AI/Agent-Security/_index.md
     # url: '#posts'
     weight: 20
     parent: AI

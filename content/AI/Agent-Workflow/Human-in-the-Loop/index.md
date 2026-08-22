@@ -1,4 +1,10 @@
-可以。下面这篇我会刻意避免“AI + 人工审核”的浅层介绍，而是从 **Agent 架构、控制论、状态机、风险分级、权限边界、恢复机制、审计、幂等性、Human-in-the-loop 与 Human-on-the-loop 的区别，以及 CrewAI 实现方式**几个层面展开。这样更像一篇有架构师视角的技术博客，而不是框架教程。
+---
+title: Human-in-the-Loop：从“人工审核”到 AI Agent 的安全控制平面
+# tags:
+#   - nodejs
+date: '2026-08-08'
+summary: Human-in-the-Loop 是一种将人类决策能力纳入 Agent 执行状态机的控制机制。
+---
 
 # Human-in-the-Loop：从“人工审核”到 AI Agent 的安全控制平面
 

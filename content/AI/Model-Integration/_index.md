@@ -1,5 +1,5 @@
 ---
-title: Model-Integration
+title: Model Integration
 cms_exclude: true
 
 # View.

@@ -1,5 +1,5 @@
 ---
-title: Production-AI
+title: Production AI
 cms_exclude: true
 
 # View.
