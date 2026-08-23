@@ -128,43 +128,43 @@ main:
     # parent: Language
 
 # AI 下拉菜单
-  - name: Agent-Frameworks
+  - name: Agent Frameworks
     PageRef: AI/Agent-Frameworks/_index.md
     # url: '#posts'
     weight: 10
     parent: AI
-  - name: Agent-Infrastructure
+  - name: Agent Infrastructure
     PageRef: AI/Agent-Infrastructure/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: Agent-Workflow
+  - name: Agent Workflow
     PageRef: AI/Agent-Workflow/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: Agent-Security
+  - name: Agent Security
     PageRef: AI/Agent-Security/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: AI-Agent
+  - name: AI Agent
     PageRef: AI/AI-Agent/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: LLM-Fundamentals
+  - name: LLM Fundamentals
     PageRef: AI/LLM-Fundamentals/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
-  - name: Model-Integration
+  - name: Model Integration
     PageRef: AI/Model-Integration/_index.md
     # url: '#posts'
     weight: 20
     parent: AI
 
-  - name: Multi-Agent
+  - name: Multi Agent
     PageRef: AI/Multi-Agent/_index.md
     # url: '#posts'
     weight: 20
@@ -176,7 +176,7 @@ main:
     weight: 20
     parent: AI
 
-  - name: Production-AI
+  - name: Production AI
     PageRef: AI/Production-AI/_index.md
     # url: '#posts'
     weight: 20
